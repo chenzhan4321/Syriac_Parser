@@ -1,0 +1,79 @@
+Word: ܘܡܠܟܐ
+Root: ܡܠܟ
+Part of Speech: noun
+Has Article: False
+Has Pronoun Suffix: False
+Meaning: and a king
+---
+Word: ܕܘܝܕ
+Root: ܕܘܝܕ
+Part of Speech: proper noun
+Has Article: False
+Has Pronoun Suffix: False
+Meaning: of David
+---
+Word: ܣܐܒ
+Root: ܣܥܒ
+Part of Speech: verb
+Has Object Suffix: False
+Person: third
+Number: singular
+Tense: perfect
+Meaning: was old
+---
+Word: ܘܥܠ
+Root: ܥܠ
+Part of Speech: preposition
+Meaning: and
+---
+Word: ܒܫܢܝܐ
+Root: ܫܝܢ
+Part of Speech: adjective
+Meaning: in years
+---
+Word: ܘܡܟܣܝܢ
+Root: ܡܟܣ
+Part of Speech: verb
+Has Object Suffix: False
+Person: third
+Number: plural
+Tense: perfect
+Meaning: and they covered
+---
+Word: ܗܘܘ
+Root: ܗܘܐ
+Part of Speech: verb
+Has Object Suffix: False
+Person: third
+Number: plural
+Tense: perfect
+Meaning: they were
+---
+Word: ܠܗ
+Root: ܠܗ
+Part of Speech: personal pronoun
+Has Article: False
+Has Pronoun Suffix: False
+Meaning: to him
+---
+Word: ܒܠܒܘܫܐ
+Root: ܠܒܫ
+Part of Speech: noun
+Has Article: True
+Has Pronoun Suffix: False
+Meaning: in clothing
+---
+Word: ܘܠܐ
+Root: ܠܐ
+Part of Speech: negation
+Meaning: and not
+---
+Word: ܫܚܢ
+Root: ܫܚܢ
+Part of Speech: verb
+Has Object Suffix: False
+Person: third
+Number: singular
+Tense: imperfect
+Meaning: was warm
+---
